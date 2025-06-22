@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ayse.CoreKit.Application", "Ayse.CoreKit.Application\Ayse.CoreKit.Application.csproj", "{1B542369-005B-4DF4-8A17-D47AA6FD54FF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ayse.CoreKit.CrossCuttingConcerns", "Ayse.CoreKit.CrossCuttingConcerns\Ayse.CoreKit.CrossCuttingConcerns.csproj", "{0A95FCA1-EF1A-485B-A666-48E79D8E7264}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ayse.CoreKit.Logging", "Ayse.CoreKit.Logging\Ayse.CoreKit.Logging.csproj", "{78E31C8C-EFE1-4456-B191-45EBEE8A7F67}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ayse.CoreKit.Persistence", "Ayse.CoreKit.Persistence\Ayse.CoreKit.Persistence.csproj", "{E8794FE5-1288-4CAB-AEC1-BB971F996E0F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ayse.CoreKit.Security", "Ayse.CoreKit.Security\Ayse.CoreKit.Security.csproj", "{1EFE056A-6491-4D8A-B5D4-087530B7D258}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ayse.CoreKit.WebAPI", "Ayse.CoreKit.WebAPI\Ayse.CoreKit.WebAPI.csproj", "{C79B5482-B3FC-403B-9372-74E15783D995}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1B542369-005B-4DF4-8A17-D47AA6FD54FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B542369-005B-4DF4-8A17-D47AA6FD54FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B542369-005B-4DF4-8A17-D47AA6FD54FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B542369-005B-4DF4-8A17-D47AA6FD54FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A95FCA1-EF1A-485B-A666-48E79D8E7264}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A95FCA1-EF1A-485B-A666-48E79D8E7264}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A95FCA1-EF1A-485B-A666-48E79D8E7264}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A95FCA1-EF1A-485B-A666-48E79D8E7264}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78E31C8C-EFE1-4456-B191-45EBEE8A7F67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78E31C8C-EFE1-4456-B191-45EBEE8A7F67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78E31C8C-EFE1-4456-B191-45EBEE8A7F67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78E31C8C-EFE1-4456-B191-45EBEE8A7F67}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E8794FE5-1288-4CAB-AEC1-BB971F996E0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8794FE5-1288-4CAB-AEC1-BB971F996E0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8794FE5-1288-4CAB-AEC1-BB971F996E0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8794FE5-1288-4CAB-AEC1-BB971F996E0F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1EFE056A-6491-4D8A-B5D4-087530B7D258}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EFE056A-6491-4D8A-B5D4-087530B7D258}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1EFE056A-6491-4D8A-B5D4-087530B7D258}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1EFE056A-6491-4D8A-B5D4-087530B7D258}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C79B5482-B3FC-403B-9372-74E15783D995}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C79B5482-B3FC-403B-9372-74E15783D995}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C79B5482-B3FC-403B-9372-74E15783D995}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C79B5482-B3FC-403B-9372-74E15783D995}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
